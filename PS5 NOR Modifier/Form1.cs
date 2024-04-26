@@ -289,7 +289,7 @@ namespace PS5_NOR_Modifier
         }
 
         /// <summary>
-        /// Lauinches a URL in a new window using the default browser...
+        /// Launches a URL in a new window using the default browser...
         /// </summary>
         /// <param name="url">The URL you want to launch</param>
         private void OpenUrl(string url)
